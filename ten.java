@@ -9,7 +9,7 @@ public class Ten {
             }
             i += 2;
         }
-        System.out.println(Sum + 2);
+        System.out.println(Sum);
     }
     public boolean isPrime(int n)
     {
