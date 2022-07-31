@@ -1,4 +1,8 @@
-public class third {
+/*3. The prime factors of 13195 are 5, 7, 13 and 29.
+        What is the largest prime factor of the number 600851475143?
+        Ans: 6857*/
+
+public class Largest_prime_factor {
     public static void main(String[] args) {
         long HT = 600851475143l;
         long i = 1l;
